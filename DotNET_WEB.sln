@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DriverKonnectWebAPI", "DriverKonnectWebAPI\DriverKonnectWebAPI.csproj", "{1BE3AFCE-A6F5-4CA2-9CE9-0E94353E8748}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1BE3AFCE-A6F5-4CA2-9CE9-0E94353E8748}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BE3AFCE-A6F5-4CA2-9CE9-0E94353E8748}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BE3AFCE-A6F5-4CA2-9CE9-0E94353E8748}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BE3AFCE-A6F5-4CA2-9CE9-0E94353E8748}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6119FD5D-6C53-42CF-8EF8-7B198EFA6DF3}
+	EndGlobalSection
+EndGlobal
